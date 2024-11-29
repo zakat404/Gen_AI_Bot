@@ -6,3 +6,5 @@
 
 # Исключить main.py
 !main.py
+!README.md
+!requierements.txt
